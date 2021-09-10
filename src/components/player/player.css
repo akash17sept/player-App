@@ -1,0 +1,65 @@
+*{
+    margin-top: 0;
+}
+
+.heading {
+    height: 7vh;
+    box-shadow: 2px 2px 2px white;
+    background-color:black;
+    text-align: center;
+    color: white;
+}
+
+.heading h2 {
+    font-size: 30px;
+}
+
+#player-details {
+    text-align: center;
+    width: 60%;
+    margin: 50px auto;
+    border: 2px solid gray;
+    background-color: lightgray;
+    padding: 35px;
+}
+
+#player-image-div {
+    display: flex;
+}
+
+.player-name-country {
+    margin-left: 35px;
+    margin-top: 59px;
+}
+
+#player-name {
+    margin-bottom: 0;
+}
+
+
+#player-details-div {
+    margin-top: 35px;
+    display: flex;
+    justify-content: space-between;
+}
+
+span {
+    font-weight: 400;
+}
+
+.Player-shirt {
+    margin-left: -120px;
+}
+
+.prev {
+    position: relative;
+    left: 400px;
+    top: 30px;
+}
+
+.next {
+    position: relative;
+    left: 950px;
+    top: 30px;
+    
+}

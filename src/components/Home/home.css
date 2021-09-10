@@ -1,0 +1,43 @@
+*{
+    margin-top: 0;
+}
+
+.heading {
+    height: 7vh;
+    box-shadow: 2px 2px 2px white;
+    background-color:black;
+    text-align: center;
+    color: white;
+}
+
+.heading h2 {
+    font-size: 30px;
+}
+
+.player {
+    height: 35vh;
+    width: 30%;
+    box-shadow: 2px 2px 12px 2px blue;
+    margin: 35px auto 0 auto;
+    text-align: center;
+    background-color: lightblue;
+    position: relative;
+}
+
+h3 {
+    font-size: 24px;
+    position: absolute;
+    top: 40px;
+}
+
+button {
+    font-size: 25px;
+    color: white;
+    padding: 5px;
+    background-color: green;
+    position: absolute;
+    bottom: 85px;
+    right: 155px;
+    border-radius: 5px;
+    cursor: pointer;
+}
